@@ -1,4 +1,4 @@
-<h2 align="left">Hey, I'm Kendi Nexy Kendi👋 I build mobile apps and stuff </h2>
+<h2 align="left">Hey, I'm Nexy Kendi👋 I build mobile apps and stuff </h2>
 
 ###
 
